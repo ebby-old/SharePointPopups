@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Custom Images" Url="Style Library" RootWebOnly="TRUE">
+    <File Path="Custom Images\Error.png" Url="Custom Images/Error.png" Type="GhostableInLibrary" Level="Published"/>
+    <File Path="Custom Images\Info.png" Url="Custom Images/Info.png" Type="GhostableInLibrary" Level="Published"/>
+    <File Path="Custom Images\Warn.png" Url="Custom Images/Warn.png" Type="GhostableInLibrary" Level="Published"/>
+  </Module>
+</Elements>

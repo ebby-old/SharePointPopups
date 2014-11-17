@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Custom Scripts" Url="Style Library" RootWebOnly="TRUE">
+    <File Path="Custom Scripts\PopupDemo.js" Url="Custom Scripts/PopupDemo.js" Type="GhostableInLibrary" Level="Published"/>
+  </Module>
+</Elements>

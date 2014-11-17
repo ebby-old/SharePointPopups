@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="df48adc8-09cf-42ff-a36e-d01746f1212d" solutionId="df48adc8-09cf-42ff-a36e-d01746f1212d" resetWebServer="false" sharePointProductVersion="15.0" name="SharePointPopups" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="a343b383-26d1-421d-9d54-3141bc4fca21" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="4a81cb92-c5ad-43f1-bc9d-c3241a200719" />
+  </projectItems>
+</package>

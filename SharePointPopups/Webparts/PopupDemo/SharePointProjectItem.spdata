@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.VisualWebPart" DefaultFile="PopupDemoUserControl.ascx" SupportedTrustLevels="FullTrust" SupportedDeploymentScopes="Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="PopupDemo\" Type="ElementManifest" />
+    <ProjectItemFile Source="PopupDemo.webpart" Target="PopupDemo\" Type="ElementFile" />
+    <ProjectItemFile Source="PopupDemoUserControl.ascx" Target="CONTROLTEMPLATES\SharePointPopups.Webparts\PopupDemo\" Type="TemplateFile" />
+  </Files>
+  <SafeControls>
+    <SafeControl Name="SafeControlEntry1" Assembly="$SharePoint.Project.AssemblyFullName$" Namespace="SharePointPopups.Webparts.PopupDemo" TypeName="*" IsSafe="true" IsSafeAgainstScript="false" />
+  </SafeControls>
+</ProjectItem>
